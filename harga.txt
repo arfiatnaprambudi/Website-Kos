@@ -1,0 +1,2 @@
+Harga kamar kost = Rp 10.000.000
+Harga Laundry    = Rp 6.000 / kg
